@@ -207,6 +207,8 @@ footer nav a {
 
 #about-main div {
     width: 45%;
+    border-bottom: 1px dashed black;
+    margin: 1rem;
 }
 
 .learn-more {
@@ -217,4 +219,5 @@ footer nav a {
     border-radius: 1em;
     display: block;
     width: 7.5em;
+    margin: 1em 0;
 }
